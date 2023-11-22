@@ -1,3 +1,4 @@
+# this is the python code scraping using newspaper library
 import streamlit as st
 import newspaper
 import nltk
